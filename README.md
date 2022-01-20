@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Latth
-- 👀 I’m interested in Web Develope and Web Design | HTML, CSS, JS
+- 👀 I’m interested in Web Development and Web Design | HTML, CSS, JS
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Web Development.
 - 📫 How to reach me Instagram: @latheriel | latherield@yandex.com | +905462198350 (WhatsApp)
