@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Latth
-- 👀 I’m interested in Web Development and Web Design | HTML, CSS, JS
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on Web Development.
+- 👀 I’m interested in Flutter & Dart and Web Development | HTML, CSS, JS
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on Flutter.
 - 📫 How to reach me Instagram: @latheriel | latherield@yandex.com | +905462198350 (WhatsApp)
 
 <!---
