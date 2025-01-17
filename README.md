@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Latth
-- 👀 I’m interested in Flutter & Dart and Web Development | HTML, CSS, JS
+- 👀 I’m interested in Flutter & Dart and Node.js
 - 🌱 I’m currently learning Flutter
-- 💞️ I'm currently working at Izmir Metropolitan Municipality as Mobile Developer.
+- 💞️ I'm currently working at Ximmio B.V as Mobile Developer(Flutter).
 - 📫 How to reach me Instagram: @latheriel | latherield@yandex.com | +905462198350 (WhatsApp)
 
 <!---
